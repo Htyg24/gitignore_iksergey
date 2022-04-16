@@ -31,6 +31,7 @@ void GetThirdNum()
         Console.WriteLine("Третьей цифры нет");
 }
 
+
 void Weekend()
 {
     int num = new Random().Next(1, 7);
